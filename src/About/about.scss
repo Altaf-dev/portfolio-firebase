@@ -1,0 +1,16 @@
+@import "../style/color";
+
+.about {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px 20px;
+
+
+  &__desc {
+    max-width: 500px;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 1.8rem;
+  }
+}
