@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61413829-c95f-4a55-8413-219482439408" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.firebaserc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/About/About.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/About/about.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Certificate/Certificate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Certificate/Certificateitem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Certificate/Certificatelist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Certificate/certificate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contact/Contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contact/ContactItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contact/Contactform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contact/Contactlist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contact/contact.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contact/send.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/Main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Navigate/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Navigate/navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Portfolio/Portfolio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Portfolio/PortfolioItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Portfolio/PortfolioList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Portfolio/portfolio.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Skills/Skills.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Skills/skills.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doc/1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doc/2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doc/3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doc/4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doc/5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doc/6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doc/7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/avtovoz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/certificate1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/certificate2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/certificate3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/certificate4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/certificate5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/certificate6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/certificate7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/discord.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/gmail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/kazterra.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/leotech.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/metall.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/mvd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/panel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/qube.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/recrut.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/telegramm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/whatsapp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/wp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/zhaluzi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/php/send.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/phpmailer/Exception.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/phpmailer/PHPMailer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/phpmailer/SMTP.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/color.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/title.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/svg/BEM.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/svg/CSS3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/svg/FIGMA.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/svg/GIT.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/svg/HTML5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/svg/JAVASCRIPT.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/svg/PS.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/svg/PerfectPixel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/svg/REACT.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/svg/SCSS.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/svg/WEBPACK.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/svg/WEBSTORM.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/upload/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/upload/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LRa0QxOACydxcScL62N1dNT4Q2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.fileTypes",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61413829-c95f-4a55-8413-219482439408" name="Changes" comment="" />
+      <created>1675836125449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675836125449</updated>
+      <workItem from="1675836126789" duration="16254000" />
+      <workItem from="1675862242510" duration="2871000" />
+      <workItem from="1675912652174" duration="5536000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
