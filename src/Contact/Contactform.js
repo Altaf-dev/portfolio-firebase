@@ -3,8 +3,6 @@ import {post} from "axios";
 
 export function ContactForm () {
 
-
-
     return (
         <form className={"contact__form"} action={"send.php"} method={"post"} acceptCharset={"utf-8"} encType={"multipart/form-data"}>
             <input name={"name"} className={"contact__form-input"} type={"text"} placeholder={"Ваше имя"}/>
